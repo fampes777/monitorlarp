@@ -1,0 +1,15 @@
+# Build outputs
+/*.exe
+/*.pdb
+
+# Exception for package tools
+!packages/**
+
+# History logs and temp files
+*.log
+*.tmp
+
+# IDE and OS
+.vs/
+.vscode/
+Thumbs.db
